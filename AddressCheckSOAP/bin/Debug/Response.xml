@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<ResponseArray xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version xmlns="urn:mdWebServiceAddress">2.0.62</Version>
+  <TransmissionReference xmlns="urn:mdWebServiceAddress">Testing: DQWS SOAP Sample Code implementation using multiple record inputs.</TransmissionReference>
+  <Results xmlns="urn:mdWebServiceAddress"> </Results>
+  <TotalRecords xmlns="urn:mdWebServiceAddress">1</TotalRecords>
+  <Record xmlns="urn:mdWebServiceAddress">
+    <RecordID>1</RecordID>
+    <Results>AS01</Results>
+    <Address>
+      <Company>Rovisys</Company>
+      <Urbanization>
+        <Name> </Name>
+      </Urbanization>
+      <Address1>1455 Danner Dr</Address1>
+      <Address2> </Address2>
+      <Suite> </Suite>
+      <PrivateMailBox> </PrivateMailBox>
+      <City>
+        <Name>Aurora</Name>
+        <Abbreviation>Aurora</Abbreviation>
+      </City>
+      <State>
+        <Name>Ohio</Name>
+        <Abbreviation>OH</Abbreviation>
+      </State>
+      <Zip>44202</Zip>
+      <Plus4>9273</Plus4>
+      <CarrierRoute>R013</CarrierRoute>
+      <DeliveryPointCode>55</DeliveryPointCode>
+      <DeliveryPointCheckDigit>7</DeliveryPointCheckDigit>
+      <CongressionalDistrict>14</CongressionalDistrict>
+      <Type>
+        <Address>
+          <Code>S</Code>
+          <Description>Street</Description>
+        </Address>
+        <Zip>
+          <Code> </Code>
+          <Description>Standard ZIP Code</Description>
+        </Zip>
+      </Type>
+      <Country>
+        <Abbreviation>US</Abbreviation>
+        <Name>United States of America</Name>
+      </Country>
+      <AddressKey>44202927355</AddressKey>
+      <Parsed>
+        <StreetName>Danner</StreetName>
+        <AddressRange>1455</AddressRange>
+        <Suffix>Dr</Suffix>
+        <Direction>
+          <Post> </Post>
+          <Pre> </Pre>
+        </Direction>
+        <Suite>
+          <Range> </Range>
+          <Name> </Name>
+        </Suite>
+        <PrivateMailbox>
+          <Name> </Name>
+          <Range> </Range>
+        </PrivateMailbox>
+        <Garbage> </Garbage>
+        <RouteService> </RouteService>
+        <LockBox> </LockBox>
+        <DeliveryInstallation> </DeliveryInstallation>
+      </Parsed>
+    </Address>
+  </Record>
+</ResponseArray>

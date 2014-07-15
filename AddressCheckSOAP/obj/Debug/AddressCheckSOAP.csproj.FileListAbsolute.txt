@@ -1,0 +1,9 @@
+C:\Users\rovisys\Documents\Visual Studio 2012\Projects\AddressCheckSOAP\AddressCheckSOAP\bin\Debug\MelissaData2.exe.config
+C:\Users\rovisys\Documents\Visual Studio 2012\Projects\AddressCheckSOAP\AddressCheckSOAP\bin\Debug\MelissaData2.exe
+C:\Users\rovisys\Documents\Visual Studio 2012\Projects\AddressCheckSOAP\AddressCheckSOAP\bin\Debug\MelissaData2.pdb
+C:\Users\rovisys\Documents\Visual Studio 2012\Projects\AddressCheckSOAP\AddressCheckSOAP\obj\Debug\AddressCheckSOAP.Form1.resources
+C:\Users\rovisys\Documents\Visual Studio 2012\Projects\AddressCheckSOAP\AddressCheckSOAP\obj\Debug\MelissaData2.Properties.Resources.resources
+C:\Users\rovisys\Documents\Visual Studio 2012\Projects\AddressCheckSOAP\AddressCheckSOAP\obj\Debug\AddressCheckSOAP.csproj.GenerateResource.Cache
+C:\Users\rovisys\Documents\Visual Studio 2012\Projects\AddressCheckSOAP\AddressCheckSOAP\obj\Debug\MelissaData2.exe
+C:\Users\rovisys\Documents\Visual Studio 2012\Projects\AddressCheckSOAP\AddressCheckSOAP\obj\Debug\MelissaData2.pdb
+C:\Users\rovisys\Documents\Visual Studio 2012\Projects\AddressCheckSOAP\AddressCheckSOAP\obj\Debug\AddressCheckSOAP.csprojResolveAssemblyReference.cache
